@@ -40,7 +40,8 @@ Coupon discounts
 Final Total
 
 Database Schema (MySQL)
-<img width="1682" height="776" alt="image" src="https://github.com/user-attachments/assets/480d8179-67f3-4960-beb1-17b1a65a53ed" />
+![WhatsApp Image 2025-11-24 at 20 11 53_402fb963](https://github.com/user-attachments/assets/ae330fd9-21c7-46d5-ab6f-527dee6ed45b)
+
 
 Technologies Used
 
